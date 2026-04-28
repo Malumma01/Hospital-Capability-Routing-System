@@ -1,0 +1,90 @@
+name,city,lat,lon,has_antivenom,has_pediatric_icu,has_mri,has_oxygen,has_ventilator,emergency_247,phone
+National Hospital Abuja,Abuja,9.0392,7.4920,1,1,1,1,1,1,+234-809-000-0000
+Federal Medical Centre Abuja,Abuja,9.0579,7.4891,1,1,1,1,1,1,+234-809-111-1111
+University of Abuja Teaching Hospital Gwagwalada,Abuja,8.9390,7.0810,1,1,0,1,1,1,+234-809-222-2222
+Asokoro District Hospital,Abuja,9.0305,7.5186,1,0,0,1,1,1,+234-809-223-2233
+Wuse District Hospital,Abuja,9.0663,7.4698,0,0,0,1,1,1,+234-809-224-2244
+Garki Hospital Abuja,Abuja,9.0276,7.4899,0,0,1,1,1,1,+234-809-333-3333
+Nizamiye Hospital Abuja,Abuja,9.0169,7.3989,0,1,1,1,1,1,+234-809-444-4444
+Kelina Hospital Abuja,Abuja,9.0880,7.4700,0,0,1,1,1,1,+234-809-555-5555
+Euracare Multi-Specialist Hospital Abuja,Abuja,9.0765,7.4560,0,0,1,1,0,1,+234-809-666-6666
+Alliance Hospital Abuja,Abuja,9.0570,7.4565,0,0,1,1,1,1,+234-809-777-7777
+Cedarcrest Hospital Abuja,Abuja,9.0760,7.4568,0,0,1,1,1,1,+234-809-888-8888
+Nisa Premier Hospital Jabi,Abuja,9.0705,7.4235,0,1,0,1,1,1,+234-809-999-9999
+Gwarinpa General Hospital,Abuja,9.1200,7.4000,0,0,0,1,1,1,+234-809-101-0101
+Maitama District Hospital,Abuja,9.0890,7.4930,0,0,0,1,1,1,+234-809-202-0202
+Nyanya General Hospital,Abuja,9.0220,7.6120,1,0,0,1,1,1,+234-809-303-0303
+Kubwa General Hospital,Abuja,9.1570,7.3550,1,0,0,1,1,1,+234-809-404-0404
+Bwari General Hospital,Abuja,9.2770,7.3840,1,0,0,1,0,1,+234-809-505-0505
+National Orthopaedic Hospital Dala Annex (Abuja Clinic),Abuja,9.0600,7.4700,0,0,0,1,0,1,+234-809-606-0606
+Federal Staff Hospital Jabi,Abuja,9.0700,7.4300,0,0,0,1,0,1,+234-809-707-0707
+Police Hospital Abuja,Abuja,9.0500,7.4800,0,0,0,1,0,1,+234-809-808-8088
+Defence Headquarters Hospital Mogadishu Cantonment,Abuja,9.0400,7.4700,1,0,0,1,1,1,+234-809-909-9099
+Air Force Base Hospital Abuja,Abuja,9.0100,7.4500,0,0,0,1,0,1,+234-809-111-2222
+ECWA Hospital Abuja,Abuja,9.0700,7.4700,0,0,0,1,0,0,+234-809-222-3333
+Primecare Hospital Wuse,Abuja,9.0700,7.4705,0,0,0,1,0,0,+234-809-333-4444
+Zankli Medical Centre,Abuja,9.0900,7.4700,0,0,0,1,0,0,+234-809-444-5555
+Randle Hospital Abuja (Private),Abuja,9.0550,7.4700,0,0,0,1,0,0,+234-809-555-6666
+Limi Hospital Central Area,Abuja,9.0440,7.4910,0,0,0,1,0,0,+234-809-666-7777
+Limi Children’s Hospital,Abuja,9.0700,7.4700,0,1,0,1,0,0,+234-809-777-8888
+St. Mary Catholic Hospital Gwagwalada,Abuja,8.9400,7.0800,0,0,0,1,0,0,+234-809-888-9999
+University of Abuja Health Services Clinic,Abuja,8.9850,7.1820,0,0,0,1,0,0,+234-809-121-2121
+Abuja Clinics Garki,Abuja,9.0300,7.4900,0,0,0,1,0,0,+234-809-131-3131
+Abuja Clinics Maitama,Abuja,9.0850,7.4900,0,0,0,1,0,0,+234-809-141-4141
+NHA Clinic Central Area,Abuja,9.0450,7.4900,0,0,0,1,0,0,+234-809-151-5151
+Federal Neuro-Psychiatric Hospital Karu (Annex),Abuja,9.0200,7.6000,0,0,0,1,0,1,+234-809-161-6161
+
+Lagoon Hospital Victoria Island,Lagos,6.4310,3.4210,0,0,1,1,1,1,+234-701-000-0000
+Lagoon Hospital Ikeja,Lagos,6.6010,3.3430,0,0,1,1,1,1,+234-701-111-1111
+Reddington Hospital Victoria Island,Lagos,6.4300,3.4215,0,0,1,1,1,1,+234-701-222-2222
+Reddington Hospital Lekki,Lagos,6.4410,3.4830,0,0,1,1,1,1,+234-701-333-3333
+St. Nicholas Hospital Lagos Island,Lagos,6.4510,3.4030,0,0,1,1,1,1,+234-701-444-4444
+St. Nicholas Hospital Ikeja,Lagos,6.5960,3.3430,0,0,1,1,1,1,+234-701-555-5555
+Lagos University Teaching Hospital (LUTH),L6.5030,3.3840,1,1,1,1,1,1,+234-701-666-6666
+LASUTH,Lagos,6.5240,3.3610,1,1,1,1,1,1,+234-701-777-7777
+General Hospital Lagos Island,Lagos,6.4540,3.3950,1,0,0,1,1,1,+234-701-888-8888
+General Hospital Gbagada,Lagos,6.5620,3.3830,1,0,0,1,1,1,+234-701-999-9999
+Gbagada Cardiac and Renal Centre,Lagos,6.5630,3.3820,0,0,1,1,1,1,+234-701-101-0101
+Eko Hospital Ikeja,Lagos,6.4390,3.3650,0,0,1,1,1,1,+234-701-202-0202
+Eko Hospital Surulere,Lagos,6.5000,3.3600,0,0,1,1,1,1,+234-701-303-0303
+Evercare Hospital Lekki,Lagos,6.4415,3.4680,0,0,1,1,1,1,+234-701-404-0404
+Duchess International Hospital Ikeja,Lagos,6.5720,3.3580,0,0,1,1,1,1,+234-701-505-0505
+St. Ives Hospital Ikeja,Lagos,6.6000,3.3500,0,0,0,1,0,0,+234-701-606-0606
+St. Ives Hospital Lekki,Lagos,6.4400,3.4800,0,0,0,1,0,0,+234-701-707-0707
+R-Jolad Hospital Gbagada,Lagos,6.5600,3.3800,0,0,0,1,1,1,+234-701-808-0808
+R-Jolad Plus Lekki,Lagos,6.4450,3.4850,0,0,0,1,1,1,+234-701-909-0909
+Vedic Lifecare Hospital Lekki,Lagos,6.4400,3.4805,0,0,1,1,0,1,+234-701-121-2121
+First Consultant Hospital Obalende,Lagos,6.4500,3.4100,0,0,0,1,1,1,+234-701-131-3131
+St. Kizito Clinic Lekki,Lagos,6.4400,3.4900,0,0,0,1,0,0,+234-701-141-4141
+Mother and Child Centre Ikeja,Lagos,6.6005,3.3505,0,1,0,1,0,1,+234-701-151-5151
+Mother and Child Centre Ajegunle,Lagos,6.4500,3.3400,0,1,0,1,0,1,+234-701-161-6161
+Mother and Child Centre Badagry,Lagos,6.4150,2.8850,1,1,0,1,0,1,+234-701-171-7171
+General Hospital Ikorodu,Lagos,6.6150,3.5100,1,0,0,1,1,1,+234-701-181-8181
+General Hospital Epe,Lagos,6.5800,3.9800,1,0,0,1,1,1,+234-701-191-9191
+General Hospital Badagry,Lagos,6.4200,2.8800,1,0,0,1,1,1,+234-701-202-0202
+General Hospital Isolo,Lagos,6.5200,3.3200,1,0,0,1,1,1,+234-701-212-1212
+General Hospital Somolu,Lagos,6.5400,3.3800,1,0,0,1,1,1,+234-701-222-2222
+Federal Neuro-Psychiatric Hospital Yaba,Lagos,6.5090,3.3845,0,0,0,1,0,1,+234-701-232-3232
+Lagos Island Maternity Hospital,Lagos,6.4530,3.3955,0,1,0,1,0,1,+234-701-242-4242
+Massey Street Children’s Hospital,Lagos,6.4545,3.3920,0,1,0,1,0,1,+234-701-252-5252
+Eye Foundation Hospital Ikeja,Lagos,6.6000,3.3508,0,0,0,1,0,0,+234-701-262-6262
+Eye Foundation Hospital Victoria Island,Lagos,6.4305,3.4205,0,0,0,1,0,0,+234-701-272-7272
+MeCure Healthcare Limited Oshodi,Lagos,6.5550,3.3430,0,0,1,1,0,1,+234-701-282-8282
+MeCure Eye Centre,Lagos,6.5555,3.3435,0,0,0,1,0,0,+234-701-292-9292
+Lily Hospitals Lekki,Lagos,6.4420,3.4855,0,0,0,1,0,0,+234-701-303-0303
+Paelon Memorial Hospital Victoria Island,Lagos,6.4308,3.4208,0,0,0,1,0,0,+234-701-313-1313
+Paelon Memorial Hospital Ikeja,Lagos,6.5980,3.3450,0,0,0,1,0,0,+234-701-323-2323
+St. Nicholas Fertility Centre,Lagos,6.4515,3.4035,0,0,0,1,0,0,+234-701-333-3333
+Nordica Fertility Centre Ikoyi,Lagos,6.4505,3.4300,0,0,0,1,0,0,+234-701-343-4343
+Bridge Clinic Victoria Island,Lagos,6.4309,3.4212,0,0,0,1,0,0,+234-701-353-5353
+Vine Clinic Fertility Centre,Lagos,6.6008,3.3509,0,0,0,1,0,0,+234-701-363-6363
+Dialyzer Dialysis Centre Ikeja,Lagos,6.5990,3.3455,0,0,0,1,0,0,+234-701-373-7373
+St. Raphael Dialysis Centre Lekki,Lagos,6.4430,3.4860,0,0,0,1,0,0,+234-701-383-8383
+Orthopaedic Hospital Igbobi (NOHIL),Lagos,6.5400,3.3700,0,0,1,1,1,1,+234-701-393-9393
+Lagos State Accident and Emergency Centre Toll Gate,Lagos,6.6200,3.3600,1,0,0,1,1,1,+234-701-404-0404
+Lekki Peninsula Hospital,Lagos,6.4402,3.4808,0,0,0,1,0,0,+234-701-414-1414
+Vantage Medical Centre Lekki,Lagos,6.4418,3.4865,0,0,0,1,0,0,+234-701-424-2424
+Premier Specialists Medical Centre Victoria Island,Lagos,6.4312,3.4220,0,0,0,1,0,0,+234-701-434-3434
+George’s Memorial Medical Centre Lekki,Lagos,6.4412,3.4860,0,1,0,1,0,1,+234-701-444-4444
+Reddington Zaine Medical Centre Ikeja,Lagos,6.5985,3.3458,0,0,0,1,0,0,+234-701-454-5454
+Tristate Heart and Vascular Centre Gbagada,Lagos,6.5635,3.3825,0,0,1,1,1,1,+234-701-464-6464
