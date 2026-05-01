@@ -53,7 +53,7 @@ st.markdown("""
     }
 
     h4 {
-        color: #111827;
+        color: #ffffff;
         font-size: 1.15em;
         font-weight: 700;
     }
@@ -124,7 +124,7 @@ st.markdown("""
 
     /* ERROR BOXES (DO NOT) */
     .stError {
-        background: #FEF2F2 !important;
+        background: #dc2626 !important;
         color: #991B1B !important;
         border: 2px solid #EF4444 !important;
         border-radius: 12px !important;
@@ -145,7 +145,7 @@ st.markdown("""
     /* INFO BOXES */
     .stInfo {
         background: #EFF6FF !important;
-        color: #1E3A8A !important;
+        color: #000000 !important;
         border: 2px solid #60A5FA !important;
         border-radius: 12px !important;
         font-weight: 600 !important;
