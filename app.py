@@ -21,7 +21,7 @@ st.markdown("""
 <style>
     * { margin: 0; padding: 0; }
     .stApp {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #F8FAFC 0%, #2563EB 100%);
         color: #333;
     }
     h1 { color: #fff; text-align: center; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin: 20px 0; }
@@ -30,7 +30,7 @@ st.markdown("""
     .stContainer { background: white; border-radius: 15px; padding: 20px; margin: 10px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2); }
     .stForm { background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; }
     .stButton > button {
-        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #F8FAFC 0%, #2563EB 100%);
         color: white;
         border: none;
         border-radius: 10px;
@@ -57,7 +57,7 @@ st.markdown("""
     .stWarning { background: #fff3cd; color: #856404; border: 2px solid #ffc107; border-radius: 10px; }
     .stInfo { background: #d1ecf1; color: #0c5460; border: 2px solid #bee5eb; border-radius: 10px; }
     .metric-card {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #F8FAFC 0%, #2563EB 100%);
         color: white;
         padding: 20px;
         border-radius: 10px;
@@ -212,7 +212,7 @@ def page_home():
         st.markdown("""
         <div class='metric-card'>
             <h3>🎯 Smart</h3>
-            <p>AI-powered triage matching</p>
+            <p>AI-powered hospital matching</p>
         </div>
         """, unsafe_allow_html=True)
     
@@ -226,8 +226,8 @@ def page_home():
     """)
     
     st.markdown("<h3>Contact & Support</h3>", unsafe_allow_html=True)
-    st.write("📞 Emergency: +234-809-000-0000")
-    st.write("📧 Email: support@hcrs.com")
+    st.write("📞 Emergency: available on request")
+    st.write("📧 Email: jideunochioma@gmail.com")
     st.write("🌐 Website: www.hcrs.com")
     
     st.markdown("---")
@@ -325,7 +325,7 @@ def page_results():
         eta = estimate_ambulance_eta(best_hospital['distance_km'])
         
         st.markdown("""
-        <div style='background: linear-gradient(90deg, #28a745 0%, #20c997 100%); color: white; padding: 20px; border-radius: 10px; margin: 10px 0;'>
+        <div style='background: linear-gradient(135deg, #F8FAFC 0%, #2563EB 100%); color: white; padding: 20px; border-radius: 10px; margin: 10px 0;'>
             <h3 style='color: white;'>🎯 PRIMARY RECOMMENDATION</h3>
         </div>
         """, unsafe_allow_html=True)
@@ -386,7 +386,7 @@ def page_thankyou():
     st.markdown("<h1 style='text-align: center;'>✓ Thank You</h1>", unsafe_allow_html=True)
     
     st.markdown("""
-    <div style='background: linear-gradient(90deg, #28a745 0%, #20c997 100%); color: white; padding: 40px; border-radius: 15px; text-align: center; margin: 20px 0;'>
+    <div style='background: linear-gradient(135deg, #F8FAFC 0%, #2563EB 100%); color: white; padding: 40px; border-radius: 15px; text-align: center; margin: 20px 0;'>
         <h2 style='color: white;'>Your Emergency Request is Confirmed</h2>
         <p style='font-size: 1.2em; margin: 20px 0;'>Help is on the way to you!</p>
     </div>
