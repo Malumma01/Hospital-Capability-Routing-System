@@ -18,20 +18,6 @@ st.set_page_config(
 
 # Custom styling with colors
 
-st.markdown("""
-import streamlit as st
-
-st.markdown(
-    """
-    <style>
-    body {
-        background: linear-gradient(135deg, #0F766E 0%, #2563EB 100%);
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
 <div style='text-align: center; margin-top: -80px;'>
 
     <h1 style='color: white; font-weight: 800; margin-bottom: 5px;'>
@@ -43,6 +29,8 @@ st.markdown(
 </div>
 """, unsafe_allow_html=True)
 
+st.markdown(
+    """
 <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
