@@ -10,11 +10,13 @@ from streamlit_geolocation import streamlit_geolocation
 
 # Configure page
 st.set_page_config(
-    page_title="Malụmma - Hospital Routing System",
+    page_title="Malụmma - Hospital Capability Routing System",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
+st.title("Malụmma")
+st.subheader("Hospital Capability Routing System:)
 
 # Custom styling with colors
 
