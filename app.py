@@ -18,6 +18,14 @@ st.set_page_config(
 
 # Custom styling with colors
 
+st.markdown("<h3 style='text-align: center;'>Malụmma</h3>", unsafe_allow_html=True)
+
+st.markdown("<h1 style='text-align: center;'>Hospital Capability Routing System</h1>", unsafe_allow_html=True)
+
+st.markdown("<p style='text-align: center;'>Find the right hospital based on your condition and location</p>", unsafe_allow_html=True)
+
+st.markdown("<br>", unsafe_allow_html=True)
+
 st.markdown("""
 <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
