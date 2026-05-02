@@ -10,7 +10,7 @@ from streamlit_geolocation import streamlit_geolocation
 
 # Configure page
 st.set_page_config(
-    page_title="Hospital Capability Routing System (HCRS)",
+    page_title="Malụmma - Hospital Routing System",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="collapsed"
